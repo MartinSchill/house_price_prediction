@@ -17,11 +17,11 @@ My friend is an extraordinary good Freelance Data Scientist. He is currently loo
 ## This project shows the complete Data Science Lifecycle
 
 * Business Understanding
-*Data Mining
-*Data Cleaning
-*Data Exploration
-*Feature Engineering
-*Predictive Modeling
-*Data Visualization
-*Conclusions
-*Future Work
+* Data Mining
+* Data Cleaning
+* Data Exploration
+* Feature Engineering
+* Predictive Modeling
+* Data Visualization
+* Conclusions
+* Future Work
