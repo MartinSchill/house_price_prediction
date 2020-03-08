@@ -1,9 +1,7 @@
-# house_price_prediction king county dataset
+# House Price Project (King County Dataset)
 
 ## Introduction
-My friend is an extraordinary good Freelance Data Scientist. He is currently looking for a partner to found a Data Science Company in King County, WA. Since there is a lot of money to be made there. He wants to help rich people to accomplish private goals with data. He is very smart and has already figured out which house would be perfect to start his business: It must be cheap, near his potentiell rich clients, should have a bathroom...thats about it
-
-## Now he wants to test me (his potential) partner, if I can come up with recommendations.
+My friend is an extraordinary good Freelance Data Scientist. He is currently looking for a partner to found a Data Science Company in King County, WA. Since there is a lot of money to be made there. He wants to help rich people to accomplish private goals with data. He is very smart and has already figured out which house would be perfect to start his business: It must be cheap, near his potentiell rich clients, should have a bathroom...thats about it. ### Now he wants to test me (his potential) partner, if I can come up with recommendations.
 
 ## Questions to be asked
 * What does he have to do to find a relatively cheap property near his clients?
